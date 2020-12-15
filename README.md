@@ -4,7 +4,7 @@
 
 Olá sou Moisés estudante de <em>desenvolvimento web</em>.
 
-Tenho me dedicado muito aos estudos de <em>desenvolvimento web</em> na [Trybe](www.betrybe.com), onde sempre estamos pondo em prova nossas hard e soft skills, sempre nos incentivando a trabalhar em equipe, ajudando com uma boa comunicação e empatia.
+Tenho me dedicado muito aos estudos de <em>desenvolvimento web</em> na <a href="https://www.betrybe.com" target="_blank">Trybe</a>, onde sempre estamos pondo em prova nossas hard e soft skills, sempre nos incentivando a trabalhar em equipe, ajudando com uma boa comunicação e empatia.
 
 <hr>
 
