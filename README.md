@@ -24,10 +24,6 @@ Tenho me dedicado muito aos estudos de <em>desenvolvimento web</em> na <a href="
   <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png" alt="React-testing-library" width="36" height="36" />
 </p>
 
-### Veja meus repositórios
-
-  [![GitHub Badge](https://img.shields.io/badge/-Meus_Repositórios-bebfc1?style=flat-square&logo=Github&logoColor=24282e&link=https://github.com/MoisesSantana?tab=repositories/)](https://github.com/MoisesSantana?tab=repositories/)
-
 <hr>
 
 ## Contatos
