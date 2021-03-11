@@ -16,10 +16,10 @@ Tenho me dedicado muito aos estudos de <em>desenvolvimento web</em> na <a href="
 </p>
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="36" height="36"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>
   <img src="https://jestjs.io/img/jest.png" alt="Jest" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png" alt="React-testing-library" width="36" height="36" />
 </p>
