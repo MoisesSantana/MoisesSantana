@@ -4,7 +4,11 @@
 
 Olá sou Moisés e sou <em>desenvolvedor web</em>.
 
-Atualmente trabalho como pessoa instrutora no módulo de front-end na Trybe, uma escola de programação onde as pessoas estudantes colocam em prática hard e soft-skills, estou atuando na área a mais de 2 anos, utilizando React, TypeScript, Java Script, Testing Library e Cypress como principais stacks.
+Atualmente estou em busca de me recolocar no mercado como desenvolvedor.
+
+Já atuei na área por mais de 2 anos, utilizando React, TypeScript, Java Script, Testing Library e Cypress como principais stacks.
+
+Mas hoje em dia estou me especializando cada vez mais em back-end e me mantendo atualizado no mundo fo front-end. Fiquem a vontade para confirmarem essas informações vendo [meus repositórios](https://github.com/MoisesSantana?tab=repositories)
 
 <hr>
 
