@@ -1,36 +1,41 @@
-# Moisés Santana
+# Olá! 👋 Meu nome é Moisés
 
-<hr>
+Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por transformar ideias em soluções de software. Com mais de dois anos de experiência comprovada e uma jornada de mais de três anos como freelancer, tenho me destacado no cenário do desenvolvimento de software.
 
-Olá sou Moisés e sou <em>desenvolvedor web</em>.
+### Experiência Profissional
 
-Atualmente estou em busca de me recolocar no mercado como desenvolvedor.
+Durante minha jornada acadêmica, acumulei uma sólida experiência em desenvolvimento front-end, sendo especialista em tecnologias como React e Next.js. Minha paixão pelo código me levou além, e nos últimos meses tenho me dedicado intensivamente ao aprimoramento das minhas habilidades de back-end, especialmente nas stacks Node.js e Nest.js.
 
-Já atuei na área por mais de 2 anos, utilizando React, TypeScript, Java Script, Testing Library e Cypress como principais stacks.
+## Projetos Destacados
 
-Mas hoje em dia estou me especializando cada vez mais em back-end e me mantendo atualizado no mundo fo front-end. Fiquem a vontade para confirmarem essas informações vendo [meus repositórios](https://github.com/MoisesSantana?tab=repositories)
+### [Recipes App](https://github.com/MoisesSantana/recipes-app)
+Recipes App é uma aplicação web responsiva que permite o usuário após fazer login(não validado), buscar por receitas de comidas e bebidas consumindo uma API Rest, nessa aplicação também é possível favoritar, compartilhar e finalizar receitas e estará tudo disponível na página de perfil do usuário.
 
-<hr>
+### [Daily Diet API](https://github.com/MoisesSantana/Daily-Diet-API)
+Daily Diet API é uma API Rest, construída com NodeJS e o microframework Fastify, ele é um CRUD que utiliza o session cookie como autenticação. Nesse serviço é possível cadastrar refeições que fazem parte ou não da dieta, recuperar uma lista com todas as refeições, ver detalhes de uma refeição, deletar uma refeição cadastrada e obter um resumo do progresso da dieta.
 
-## Tecnologias
+### [Class component and Redux Todo](https://github.com/MoisesSantana/class-component-and-redux-todo)
+Class component and Redux Todo, foi uma aplicação web responsiva desenvolvida para um desafio técnico, onde foi necessário utilizar React com componentes de classe, nessa aplicação é um CRUD em front-end, onde é possível cadastrar, remover, editar, marcar como concluída e desmarcar como concluída suas tarefas, todas as tarefas precisam ter o tempo que foi criada, para que possa ser feito filtros por data.
 
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![fastify](https://img.shields.io/badge/fastify-black?style=for-the-badge&logo=fastify&logoColor=white) ![Nest](https://img.shields.io/badge/Nest-black?style=for-the-badge&logo=Nestjs&logoColor=red) ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=OpenJDK&logoColor=black) ![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=Spring&logoColor=green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13) ![Cypress](https://img.shields.io/badge/Cypress-FFF?style=for-the-badge&logo=cypress&logoColor=25292D) ![Testing Library](https://img.shields.io/badge/Testing_Library-18191A?style=for-the-badge&logo=testing-library&logoColor=FE4646) ![zustand](https://img.shields.io/badge/zustand-yellow?style=for-the-badge&logo=monica&logoColor=blue) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![reactquery](https://img.shields.io/badge/reactquery-blue?style=for-the-badge&logo=reactquery&logoColor=tomato) ![reacthookform](https://img.shields.io/badge/reacthookform-pink?style=for-the-badge&logo=reacthookform&logoColor=white) ![zod](https://img.shields.io/badge/zod-white?style=for-the-badge&logo=zod&logoColor=blue) ![Styled Components](https://img.shields.io/badge/Styled_Components-3D3D3D?style=for-the-badge&logo=styled-components&logoColor=FEA4E7) ![MaterialUI](https://img.shields.io/badge/MaterialUI-white?style=for-the-badge&logo=mui&logoColor=blue) ![tailwindcss](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+### Em construção:
 
-## Contatos
+### [Solid Gym Api](https://github.com/MoisesSantana/solid-gym-api)
+Solid Gym Api é uma API Rest, construída com NodeJS e o microframework Fastify, está API ainda está em desenvolvimento, o objetivo deste serviço é colocar em prática conceitos do SOLID e alguns Patterns, como o Repository e o Factory.
 
-Estou aberto a novas oportunidades como <em>desenvolvedor front-end</em>.
+### [Gestão de Vagas](https://github.com/MoisesSantana/gestao_vagas)
+Gestão de Vagas é uma API Rest, construída com Java e o framework SrpingBoot, está API ainda está em desenvolvimento, o objetivo deste servico é ter um controle de vagas, onde um candidato pode se candidatar a uma vaga disponibilizada por uma empresa.
 
-[![Linkedin Badge](https://img.shields.io/badge/-MoisesSantana-1e66b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moises-santana/)](https://www.linkedin.com/in/moises-santana/) 
-__
-[![Gmail Badge](https://img.shields.io/badge/-moisaant@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moisaant@gmail.com)](mailto:moisaant@gmail.com)
-__
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00d446?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521990837905)](https://api.whatsapp.com/send?phone=5521990837905)
+## Habilidades
 
-<hr>
+- Linguagens de Programação: JavaScript, TypeScript, Java.
+- Ténologias: React, Next, Node, Express, Fastify, Nest, Zod, JWT, Git, React Hook Form, Redux, Context API, Zustand, React Query, MySQL, PostgreSQL, MongoDB, Mongoose, Prisma, TypeORM, Sequelize, TailwindCSS, Material UI, Styled Components, Jest, Vitest, Cypress, React Testing Library.
+- Outras Habilidades: HTML, CSS, SCRUM, Kanban, Figma.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoisesSantana&hide=stars&show_icons=true&theme=gotham&line_height=32" alt="informações de commits, pull requests, issues e contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesSantana&count_private=true&theme=gotham" alt="informações sobre tecnologias mais usadas" />
-</p>
+## Onde Me Encontrar
 
+- LinkedIn: [moises-santana](https://linkedin.com/in/moises-santana)
+- Telefone/WhatsApp: [(21) 99083-7905](https://api.whatsapp.com/send?phone=5521990837905)
+- Email: moisaant@gmail.com
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MoisesSantana&show_icons=true&theme=radical)
 
