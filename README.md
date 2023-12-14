@@ -4,7 +4,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por trans
 
 ### Experiência Profissional
 
-Durante minha jornada acadêmica, acumulei uma sólida experiência em desenvolvimento front-end, sendo especialista em tecnologias como React e Next.js. Minha paixão pelo código me levou além, e nos últimos meses tenho me dedicado intensivamente ao aprimoramento das minhas habilidades de back-end, especialmente nas stacks Node.js e Nest.js.
+Durante minha jornada profissional e academica, acumulei uma sólida experiência em desenvolvimento front-end, sendo especialista em tecnologias como React e Next.js. Minha paixão pelo código me levou além, e nos últimos meses tenho me dedicado intensivamente ao aprimoramento das minhas habilidades de back-end, especialmente nas stacks Node.js e Nest.js.
 
 ## Projetos Destacados
 
